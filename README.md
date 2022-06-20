@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 # Hello, World, I'm Aline! 👽
   <a href="https://www.linkedin.com/in/alineramosvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@alineramosv42"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <p align="left"> 
-  Graduação em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza. Atualmente atuando como Software Engineer em uma startup de E-commerce, com foco em desenvolvimento backend web na stack de Ruby on Rails.
+  Graduated in Systems Analysis and Development at Unifor, I currently work as a <strong>Ruby on Rails</strong> Software Engineer at GOCASE. I'm focused on backend web development and I love improving my rails skills.
 </p>
 
 <p align="left">
